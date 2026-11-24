@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc"><title id="title">No Excuses Jesse 5-Day Fitness Program</title><desc id="desc">Orange and black circular badge with NEJ, a person walking with a kettlebell, and 5-Day Fitness Program lettering</desc>
+<rect width="1200" height="1200" fill="#000"/>
+<circle cx="600" cy="600" r="567" fill="none" stroke="#ff7900" stroke-width="26"/>
+<circle cx="600" cy="328" r="269" fill="none" stroke="#ff7900" stroke-width="29" stroke-dasharray="1290 420" transform="rotate(-30 600 328)"/>
+<text x="600" y="375" text-anchor="middle" font-size="237" font-family="Arial Black,Arial,sans-serif" font-weight="1000" font-style="italic" fill="#fff" letter-spacing="-12">NEJ</text>
+<!-- Walking figure with kettlebell; simplified to retain detail at web sizes -->
+<g stroke="#ffffff" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle cx="574" cy="381" r="24" fill="#fff" stroke="#fff"/>
+<path d="M550 377 l-9 -12 l31 -2 M566 411 L553 473 L605 502 M556 439 L510 472 M587 426 L629 462 M605 501 L653 531 M605 501 L575 545 M653 531 L685 526 M575 545 L546 553"/>
+</g>
+<g fill="#ff7900" stroke="#ff7900"><path d="M484 476c-1 -13 4 -21 14 -21s15 8 14 21" fill="none" stroke-width="9"/><circle cx="498" cy="487" r="22"/></g>
+<path d="M455 564h284l-40 13H488z" fill="#ff7900"/>
+<text x="600" y="662" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-style="italic" font-size="59">No Excuses Jesse</text>
+<path d="M150 641h205 M845 641h205" stroke="#ff7900" stroke-width="13"/>
+<path d="M130 701 H1070 L1006 867 H192Z" fill="#ff7900"/>
+<text x="600" y="835" fill="#000" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="1000" font-style="italic" font-size="180">5-DAY</text>
+<text x="600" y="962" text-anchor="middle" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-weight="1000" font-style="italic" font-size="88" letter-spacing="-3" textLength="950" lengthAdjust="spacingAndGlyphs">FITNESS PROGRAM</text>
+<path d="M290 1025h265 M645 1025h265" stroke="#ff7900" stroke-width="13"/></svg>
